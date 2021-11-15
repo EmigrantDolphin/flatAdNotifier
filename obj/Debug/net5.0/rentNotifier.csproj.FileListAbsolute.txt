@@ -1,0 +1,16 @@
+/home/norman/projects/rentNotifier/bin/Debug/net5.0/rentNotifier
+/home/norman/projects/rentNotifier/bin/Debug/net5.0/rentNotifier.deps.json
+/home/norman/projects/rentNotifier/bin/Debug/net5.0/rentNotifier.runtimeconfig.json
+/home/norman/projects/rentNotifier/bin/Debug/net5.0/rentNotifier.runtimeconfig.dev.json
+/home/norman/projects/rentNotifier/bin/Debug/net5.0/rentNotifier.dll
+/home/norman/projects/rentNotifier/bin/Debug/net5.0/ref/rentNotifier.dll
+/home/norman/projects/rentNotifier/bin/Debug/net5.0/rentNotifier.pdb
+/home/norman/projects/rentNotifier/obj/Debug/net5.0/rentNotifier.csproj.AssemblyReference.cache
+/home/norman/projects/rentNotifier/obj/Debug/net5.0/rentNotifier.GeneratedMSBuildEditorConfig.editorconfig
+/home/norman/projects/rentNotifier/obj/Debug/net5.0/rentNotifier.AssemblyInfoInputs.cache
+/home/norman/projects/rentNotifier/obj/Debug/net5.0/rentNotifier.AssemblyInfo.cs
+/home/norman/projects/rentNotifier/obj/Debug/net5.0/rentNotifier.csproj.CoreCompileInputs.cache
+/home/norman/projects/rentNotifier/obj/Debug/net5.0/rentNotifier.dll
+/home/norman/projects/rentNotifier/obj/Debug/net5.0/ref/rentNotifier.dll
+/home/norman/projects/rentNotifier/obj/Debug/net5.0/rentNotifier.pdb
+/home/norman/projects/rentNotifier/obj/Debug/net5.0/rentNotifier.genruntimeconfig.cache
